@@ -5,6 +5,12 @@ categories: [School, Spanish]
 tags: [spanish]    # TAG names should always be lowercase
 mermaid: true
 ---
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 # Español Hoja de Referencia (Reference Sheet)
 
 ## Presente de Indicativo (Present Tense)
@@ -29,10 +35,3 @@ Examples:
 | **Nosotros** | miramos | comemos | vivimos |
 | **Vosotros** | miráis | coméis | vivís |
 | **Ellos / ellas / ustedes** | miran | comen | viven |
-
-
-| Company                      | Contact          | Country |
-|:-----------------------------|:-----------------|--------:|
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    | UK      |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
