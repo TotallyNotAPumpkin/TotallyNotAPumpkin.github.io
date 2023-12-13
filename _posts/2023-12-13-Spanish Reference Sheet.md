@@ -1,8 +1,8 @@
 ---
 title: Spanish Reference Sheet
 date: 2023-12-13 11:27:03 -0400
-categories: 
-tags:      # TAG names should always be lowercase
+categories: [School, Spanish]
+tags: [spanish]    # TAG names should always be lowercase
 mermaid: true
 ---
 # Español Hoja de Referencia (Reference Sheet)
