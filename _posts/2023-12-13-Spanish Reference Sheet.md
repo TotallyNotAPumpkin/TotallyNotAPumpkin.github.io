@@ -9,6 +9,7 @@ mermaid: true
 
 ## Presente de Indicativo (Present Tense)
 **The present indicative is used to express things that are currently happening.** To construct a verb in the present indicative, drop the infinitive ending (ar, er, or ir), and add its respective ending:
+
 | **Presente de Indicativo** | **-ar ending verbs** | **-er ending verbs** | **-ir ending verbs** |
 |---|:---:|:---:|:---:|
 | **Yo** | -o | -o | -o |
@@ -19,6 +20,7 @@ mermaid: true
 | **Ellos / ellas / ustedes** | -an | -en | -en |
 
 Examples:
+
 | **Presente de Indicativo** | **Mirar** | **Comer** | **Vivir** |
 |---|:---:|:---:|:---:|
 | **Yo** | miro | como | vivo |
@@ -27,3 +29,10 @@ Examples:
 | **Nosotros** | miramos | comemos | vivimos |
 | **Vosotros** | miráis | coméis | vivís |
 | **Ellos / ellas / ustedes** | miran | comen | viven |
+
+
+| Company                      | Contact          | Country |
+|:-----------------------------|:-----------------|--------:|
+| Alfreds Futterkiste          | Maria Anders     | Germany |
+| Island Trading               | Helen Bennett    | UK      |
+| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
