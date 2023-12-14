@@ -11,8 +11,6 @@ mermaid: true
     }
 </style>
 
-# Español Hoja de Referencia (Reference Sheet)
-
 ## Presente de Indicativo (Present Tense)
 **The present indicative is used to express things that are currently happening.** To construct a verb in the present indicative, drop the infinitive ending (ar, er, or ir), and add its respective ending:
 
