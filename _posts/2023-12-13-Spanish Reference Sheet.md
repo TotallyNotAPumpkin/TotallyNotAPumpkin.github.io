@@ -34,6 +34,17 @@ Examples:
 | **Vosotros** | miráis | coméis | vivís |
 | **Ellos / ellas / ustedes** | miran | comen | viven |
 
+<div class="grid-container">
+
+    <div class="grid-child purple">
+        Grid Column 1
+    </div>
+
+    <div class="grid-child green">
+        Grid Column 2
+    </div>
+  
+</div>
 
 <div class=pull-left>  
 <ins>I see</ins> the birds.<br>
