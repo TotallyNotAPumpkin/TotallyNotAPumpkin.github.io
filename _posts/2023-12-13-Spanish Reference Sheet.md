@@ -33,3 +33,13 @@ Examples:
 | **Nosotros** | miramos | comemos | vivimos |
 | **Vosotros** | miráis | coméis | vivís |
 | **Ellos / ellas / ustedes** | miran | comen | viven |
+
+
+<div class=pull-left>  
+<ins>I see</ins> the birds.<br>
+&#8608; <ins>Yo <b>miro</b></ins> los pájaros. 
+
+</div>  
+<div class=pull-right>  
+fdsf
+</div>
