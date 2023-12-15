@@ -9,6 +9,35 @@ mermaid: true
     table {
         width: 100%;
     }
+
+
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns */
+    .column {
+    float: left;
+    }
+
+    /* Set width length for the left, right and middle columns */
+    .left {
+    width: 20%;
+    }
+
+    .middle {
+    width: 30%;
+    }
+    
+    .right {
+    width: 50%;
+    }
+
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+
 </style>
 
 ## Presente de Indicativo (Present Tense)
@@ -34,23 +63,15 @@ Examples:
 | **Vosotros** | miráis | coméis | vivís |
 | **Ellos / ellas / ustedes** | miran | comen | viven |
 
-<div class="grid-container">
-
-    <div class="grid-child purple">
-        Grid Column 1
+<div class="row">
+    <div class="column left" style="background-color:#FFB695;">
+        <h2>Column 1</h2>
+        <p>Data..</p>
     </div>
-
-    <div class="grid-child green">
-        Grid Column 2
+    <div class="column middle" style="background-color:#96D1CD;">
+        <h2>Column 2</h2>
+        <p>Data..</p>
     </div>
-  
-</div>
-
-<div class=pull-left>  
-<ins>I see</ins> the birds.<br>
-&#8608; <ins>Yo <b>miro</b></ins> los pájaros. 
-
-</div>  
-<div class=pull-right>  
-fdsf
-</div>
+    <div class="column right" style="background-color:#74C3E1;">
+        <h2>Column 3</h2>
+        <p>Data..</p>
