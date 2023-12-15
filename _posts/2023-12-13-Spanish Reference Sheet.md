@@ -21,15 +21,15 @@ mermaid: true
 
     /* Set width length for the left, right and middle columns */
     .left {
-    width: 50%;
+    width: 20%;
     }
 
     .middle {
-    width: 30%;
+    width: 20%;
     }
     
     .right {
-    width: 30%;
+    width: 20%;
     }
 
     .row:after {
