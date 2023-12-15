@@ -16,7 +16,7 @@ mermaid: true
     }
     /* Set additional styling options for the columns */
     .column {
-    float: left;
+    float: middle;
     }
 
     /* Set width length for the left, right and middle columns */
