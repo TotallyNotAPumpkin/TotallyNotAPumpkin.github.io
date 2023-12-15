@@ -13,10 +13,6 @@ mermaid: true
     section {
         display: flex;
     }
-    article {
-        padding: 0 2em;
-        width: 100%;
-    }
 
 </style>
 
