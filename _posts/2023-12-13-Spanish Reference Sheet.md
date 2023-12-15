@@ -15,7 +15,7 @@ mermaid: true
     }
     article {
         padding: 0 2em;
-        width: 30%;
+        width: 100%;
     }
 
 </style>
