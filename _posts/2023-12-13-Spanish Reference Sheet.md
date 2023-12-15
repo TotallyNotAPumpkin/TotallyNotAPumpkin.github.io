@@ -21,15 +21,15 @@ mermaid: true
 
     /* Set width length for the left, right and middle columns */
     .left {
-    width: 20%;
+    width: 33%;
     }
 
     .middle {
-    width: 30%;
+    width: 33%;
     }
     
     .right {
-    width: 50%;
+    width: 33%;
     }
 
     .row:after {
@@ -44,7 +44,7 @@ mermaid: true
 **The present indicative is used to express things that are currently happening.** To construct a verb in the present indicative, drop the infinitive ending (ar, er, or ir), and add its respective ending:
 
 | **Presente de Indicativo** | **-ar ending verbs** | **-er ending verbs** | **-ir ending verbs** |
-|---|:---:|:---:|:---:|
+|----------------------------|:--------------------:|:--------------------:|:--------------------:|
 | **Yo** | -o | -o | -o |
 | **Tú** | -as | -es | -es |
 | **Él / ella / usted** | -a | -e | -e |
@@ -55,7 +55,7 @@ mermaid: true
 Examples:
 
 | **Presente de Indicativo** | **Mirar** | **Comer** | **Vivir** |
-|---|:---:|:---:|:---:|
+|----------------------------|:---------:|:---------:|:---------:|
 | **Yo** | miro | como | vivo |
 | **Tú** | miras | comes | vives |
 | **Él / ella / usted** | mira | come | vive |
@@ -65,13 +65,10 @@ Examples:
 
 <div class="row">
     <div class="column left" style="background-color:#FFB695;">
-        <h2>Column 1</h2>
         <p>Data..</p>
     </div>
     <div class="column middle" style="background-color:#96D1CD;">
-        <h2>Column 2</h2>
         <p>Data..</p>
     </div>
     <div class="column right" style="background-color:#74C3E1;">
-        <h2>Column 3</h2>
         <p>Data..</p>
