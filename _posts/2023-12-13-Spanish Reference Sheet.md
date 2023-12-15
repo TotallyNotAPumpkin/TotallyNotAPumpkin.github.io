@@ -10,32 +10,11 @@ mermaid: true
         width: 100%;
     }
 
-
-    {
-        box-sizing: border-box;
+    section {
+        display: flex;
     }
-    /* Set additional styling options for the columns */
-    .column {
-    float: middle;
-    }
-
-    /* Set width length for the left, right and middle columns */
-    .left {
-    width: 28%;
-    }
-
-    .middle {
-    width: 28%;
-    }
-    
-    .right {
-    width: 28%;
-    }
-
-    .row:after {
-    content: "";
-    display: table;
-    clear: both;
+    article {
+        padding: 0 2em;
     }
 
 </style>
@@ -63,12 +42,17 @@ Examples:
 | **Vosotros** | miráis | coméis | vivís |
 | **Ellos / ellas / ustedes** | miran | comen | viven |
 
-<div class="row">
-    <div class="column left" style="background-color:#FFB695;">
-        <p>Data.. # 1</p>
-    </div>
-    <div class="column middle" style="background-color:#96D1CD;">
-        <p>Data.. # 2</p>
-    </div>
-    <div class="column right" style="background-color:#74C3E1;">
-        <p>Data.. # 3</p>
+<section class="container">
+  <article>
+    <h2>First title</h2>
+    <p>Try 1</p>
+  </article>
+  <article>
+    <h2>Second title</h2>
+    <p>2</p>
+  </article>
+  <article>
+    <h2>Third title</h2>
+    <p>3</p>
+  </article>
+</section>
