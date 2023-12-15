@@ -15,6 +15,7 @@ mermaid: true
     }
     article {
         padding: 0 2em;
+        width: 30%;
     }
 
 </style>
@@ -44,15 +45,15 @@ Examples:
 
 <section class="container">
   <article>
-    <h2>First title</h2>
     <p>Try 1</p>
   </article>
+
   <article>
-    <h2>Second title</h2>
     <p>2</p>
   </article>
+
   <article>
-    <h2>Third title</h2>
     <p>3</p>
   </article>
+
 </section>
