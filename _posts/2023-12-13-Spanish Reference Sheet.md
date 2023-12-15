@@ -65,10 +65,10 @@ Examples:
 
 <div class="row">
     <div class="column left" style="background-color:#FFB695;">
-        <p>Data..</p>
+        <p>Data.. # 1</p>
     </div>
     <div class="column middle" style="background-color:#96D1CD;">
-        <p>Data..</p>
+        <p>Data.. # 2</p>
     </div>
     <div class="column right" style="background-color:#74C3E1;">
-        <p>Data..</p>
+        <p>Data.. # 3</p>
