@@ -10,9 +10,6 @@ mermaid: true
         width: 100%;
     }
 
-    section {
-        display: flex;
-    }
 
 </style>
 
@@ -39,17 +36,3 @@ Examples:
 | **Vosotros** | miráis | coméis | vivís |
 | **Ellos / ellas / ustedes** | miran | comen | viven |
 
-<section class="container">
-  <article>
-    <p>Try 1</p>
-  </article>
-
-  <article>
-    <p>2</p>
-  </article>
-
-  <article>
-    <p>3</p>
-  </article>
-
-</section>
