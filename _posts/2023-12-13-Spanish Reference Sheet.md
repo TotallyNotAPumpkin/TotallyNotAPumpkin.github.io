@@ -72,11 +72,4 @@ Examples:
   </div>
 </div>
 
-**Verbs with Spelling Changes in the <u>Yo</u> Form:**
-- For verbs that end in -guir, the yo form ends in go.
-- For verbs that end in -ger or -gir, the g in the yo form changes to a j.
 
-**Examples:** 
-Distin<u>guir</u> ➪ Distingo
-Dirigir ➪ Dirijo
-Recoger ➪ Recojo
