@@ -55,14 +55,18 @@ Examples:
 
 <div class="row">
   <div class="column" align="center">
-    <p> <u>I see</u> the birds<br>
+    <p> <u>I see</u> the birds.<br>
     ➪ <u>Yo <b>miro</b></u> los pájaros.
     </p>
   </div>
   <div class="column" align="center">
-    <p>Spanish</p>
+    <p> <u>We eat</u> dinner together.<br>
+    ➪ <u>Nosotros <b>comemos</b></u> la cena juntos.
+    </p>
   </div>
   <div class="column" align="center">
-    <p>Hola</p>
+    <p><u>He lives</u> in Florida.<br>
+    ➪ <u>Él <b>vive</b></u> en Florida.
+    </p>
   </div>
 </div>
