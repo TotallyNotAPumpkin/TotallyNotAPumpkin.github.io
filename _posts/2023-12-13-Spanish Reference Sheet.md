@@ -54,13 +54,13 @@ Examples:
 | **Ellos / ellas / ustedes** | miran | comen | viven |
 
 <div class="row">
-  <div class="column">
+  <div class="column" style="text-align:center>
     <p>HI DOES THIS WORK</p>
   </div>
-  <div class="column">
+  <div class="column" style="text-align:center>
     <p>Spanish</p>
   </div>
-  <div class="column">
+  <div class="column" style="text-align:center>
     <p>Hola</p>
   </div>
 </div>
