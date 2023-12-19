@@ -68,6 +68,7 @@ Examples:
     <p><u>He lives</u> in Florida.<br>
     ➪ <u>Él <b>vive</b></u> en Florida.
     </p>
+    <br>
   </div>
 </div>
 
