@@ -12,7 +12,7 @@ mermaid: true
 
     .column {
         float: left;
-        width: 35.33%;
+        width: 33.33%;
     }
     @media screen and (max-width: 600px) {
         .column {
