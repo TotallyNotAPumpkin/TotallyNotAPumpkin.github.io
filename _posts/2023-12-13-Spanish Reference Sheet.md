@@ -10,6 +10,23 @@ mermaid: true
         width: 100%;
     }
 
+    .column {
+        float: left;
+        width: 33.33%;
+    }
+    @media screen and (max-width: 600px) {
+        .column {
+        width: 100%;
+        }
+    }
+
+    /* Clear floats after the columns */
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
 
 </style>
 
@@ -36,3 +53,14 @@ Examples:
 | **Vosotros** | miráis | coméis | vivís |
 | **Ellos / ellas / ustedes** | miran | comen | viven |
 
+<div class="row">
+  <div class="column">
+    <p>HI DOES THIS WORK</p>
+  </div>
+  <div class="column">
+    <p>Spanish</p>
+  </div>
+  <div class="column">
+    <p>Hola</p>
+  </div>
+</div>
