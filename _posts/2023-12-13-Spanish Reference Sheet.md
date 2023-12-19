@@ -55,12 +55,14 @@ Examples:
 
 <div class="row">
   <div class="column" align="center">
-    <p>HI DOES THIS WORK</p>
+    <p> <u>I see</u> the birds<br>
+    ➪ <u>Yo <b>miro</b></u> los pájaros.
+    </p>
   </div>
-  <div class="column">
+  <div class="column" align="center">
     <p>Spanish</p>
   </div>
-  <div class="column">
+  <div class="column" align="center">
     <p>Hola</p>
   </div>
 </div>
