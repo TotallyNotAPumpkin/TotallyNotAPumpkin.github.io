@@ -12,7 +12,7 @@ mermaid: true
 
     .column {
         float: left;
-        width: 40.33%;
+        width: 35.33%;
     }
     @media screen and (max-width: 600px) {
         .column {
@@ -68,7 +68,6 @@ Examples:
     <p><u>He lives</u> in Florida.<br>
     ➪ <u>Él <b>vive</b></u> en Florida.
     </p>
-    <br>
   </div>
 </div>
 
