@@ -30,7 +30,7 @@ mermaid: true
 
 </style>
 
-# Presente de Indicativo (Present Tense)
+# **Presente de Indicativo (Present Tense)**
 **The present indicative is used to express things that are currently happening.** To construct a verb in the present indicative, drop the infinitive ending (ar, er, or ir), and add its respective ending:
 
 | **Presente De Indicativo**  | **-ar ending verbs** | **-er ending verbs*** | **-ir ending verbs** |
@@ -82,9 +82,59 @@ Dirigir ➪ Dirijo
 Recoger ➪ Recojo
 
 
-# Progressive Tense (Perífrasis Verbal)
+# **Progressive Tense (Perífrasis Verbal)**
 **The progressive tense is used to describe an ongoing or previously ongoing action.** It always begins with the auxiliary verb ESTAR (which can be conjugated to any form), followed by the action verb (gerund). To conjugate, the infinitive ending (ar, er, or ir) is taken away and either -ando or -iendo is added. 
 
 | **Progressive Tense**  | **-ar ending verbs** | **-er ending verbs*** | **-ir ending verbs** |
 |------------------------|:--------------------:|:---------------------:|:--------------------:|
 | **ESTAR (conjugated)** |         -ando        |         -iendo        |        -iendo        |
+
+Examples:
+| **Progressive Tense**       |    **Mirar**    |       **Comer**      |      **Vivir**     |
+|-----------------------------|:---------------:|:--------------------:|:------------------:|
+| **Yo**                      |  estoy mirando  |    estuve comiendo   |   estaré viviendo  |
+| **Tú**                      |  estás mirando  |  estuviste comiendo  |  estarás viviendo  |
+| **Él / ella / usted**       |   está mirando  |    estuvo comiendo   |   estará viviendo  |
+| **Nosotros**                | estamos mirando |  estuvimos comiendo  | estaremos viviendo |
+| **Vosotros**                |  estáis mirando | estuvisteis comiendo |  estaréis viviendo |
+| **Ellos / ellas / ustedes** |  están mirando  |  estuvieron comiendo |  estarán viviendo  |
+
+<div class="row">
+  <div class="column" align="center">
+    <p>He <u>is dying</u>.<br>
+    ➪ Él <u>está <b>muriendo</b></u>.
+    </p>
+  </div>
+  <div class="column" align="center">
+    <p>I <u>will be eating</u>.<br>
+    ➪ Yo <u>estaré <b>comiendo</b></u>.
+    </p>
+  </div>
+  <div class="column" align="center">
+    <p>We <u>were playing</u>.<br>
+    ➪ Nosotros <u>estuvimos <b>jugando</b></u>.
+    </p>
+  </div>
+</div>
+
+
+
+
+
+<!-- <div class="row">
+  <div class="column" align="center">
+    <p> <u></u><br>
+    ➪ <u><b></b></u>
+    </p>
+  </div>
+  <div class="column" align="center">
+    <p> <u></u><br>
+    ➪ <u><b></b></u>
+    </p>
+  </div>
+  <div class="column" align="center">
+    <p><u></u><br>
+    ➪ <u><b></b></u>
+    </p>
+  </div>
+</div> -->
