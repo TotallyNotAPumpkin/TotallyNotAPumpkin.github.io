@@ -90,6 +90,7 @@ Recoger ➪ Recojo
 | **ESTAR (conjugated)** |         -ando        |         -iendo        |        -iendo        |
 
 Examples:
+
 | **Progressive Tense**       |    **Mirar**    |       **Comer**      |      **Vivir**     |
 |-----------------------------|:---------------:|:--------------------:|:------------------:|
 | **Yo**                      |  estoy mirando  |    estuve comiendo   |   estaré viviendo  |
@@ -117,7 +118,14 @@ Examples:
   </div>
 </div>
 
+Stem changes:
+-ir verbs with an O in its stem becomes U
+-ir verbs with an E in its stem becomes I
 
+Examples:
+R**e**ir (to laugh) ➪ R**i**endo 
+D**o**rmir (to sleep) ➪ D**u**rmiendo
+P**o**der (to be able) ➪ P**u**diendo 	NOTE: This does not follow the above stem change rule.
 
 
 
