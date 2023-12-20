@@ -30,28 +30,28 @@ mermaid: true
 
 </style>
 
-## Presente de Indicativo (Present Tense)
+# Presente de Indicativo (Present Tense)
 **The present indicative is used to express things that are currently happening.** To construct a verb in the present indicative, drop the infinitive ending (ar, er, or ir), and add its respective ending:
 
-| **Presente de Indicativo** | **-ar ending verbs** | **-er ending verbs** | **-ir ending verbs** |
-|----------------------------|:--------------------:|:--------------------:|:--------------------:|
-| **Yo** | -o | -o | -o |
-| **Tú** | -as | -es | -es |
-| **Él / ella / usted** | -a | -e | -e |
-| **Nosotros** | -amos | -emos | -imos |
-| **Vosotros** | -áis | -éis | -ís |
-| **Ellos / ellas / ustedes** | -an | -en | -en |
+| **Presente De Indicativo**  | **-ar ending verbs** | **-er ending verbs*** | **-ir ending verbs** |
+|-----------------------------|:--------------------:|:---------------------:|:--------------------:|
+| **Yo**                      |          -o          |           -o          |          -o          |
+| **Tú**                      |          -as         |          -es          |          -es         |
+| **Él / ella / usted**       |          -a          |           -e          |          -e          |
+| **Nosotros**                |         -amos        |         -emos         |         -imos        |
+| **Vosotros**                |         -áis         |          -éis         |          -ís         |
+| **Ellos / ellas / ustedes** |          -an         |          -en          |          -en         |
 
 Examples:
 
-| **Presente de Indicativo** | **Mirar** | **Comer** | **Vivir** |
-|----------------------------|:---------:|:---------:|:---------:|
-| **Yo** | miro | como | vivo |
-| **Tú** | miras | comes | vives |
-| **Él / ella / usted** | mira | come | vive |
-| **Nosotros** | miramos | comemos | vivimos |
-| **Vosotros** | miráis | coméis | vivís |
-| **Ellos / ellas / ustedes** | miran | comen | viven |
+| **Presente de Indicativo**  | **Mirar** | **Comer** | **Vivir** |
+|-----------------------------|:---------:|:---------:|:---------:|
+| **Yo**                      |    miro   |    como   |    vivo   |
+| **Tú**                      |   miras   |   comes   |   vives   |
+| **Él / ella / usted**       |    mira   |    come   |    vive   |
+| **Nosotros**                |  miramos  |  comemos  |  vivimos  |
+| **Vosotros**                |   miráis  |   coméis  |   vivís   |
+| **Ellos / ellas / ustedes** |   miran   |   comen   |   viven   |
 
 <div class="row">
   <div class="column" align="center">
@@ -80,3 +80,11 @@ Examples:
 Distin<u>guir</u> ➪ Distingo
 Dirigir ➪ Dirijo
 Recoger ➪ Recojo
+
+
+# Progressive Tense (Perífrasis Verbal)
+**The progressive tense is used to describe an ongoing or previously ongoing action.** It always begins with the auxiliary verb ESTAR (which can be conjugated to any form), followed by the action verb (gerund). To conjugate, the infinitive ending (ar, er, or ir) is taken away and either -ando or -iendo is added. 
+
+| **Progressive Tense**  | **-ar ending verbs** | **-er ending verbs*** | **-ir ending verbs** |
+|------------------------|:--------------------:|:---------------------:|:--------------------:|
+| **ESTAR (conjugated)** |         -ando        |         -iendo        |        -iendo        |
