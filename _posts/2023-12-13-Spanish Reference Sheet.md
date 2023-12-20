@@ -77,9 +77,9 @@ Examples:
 - For verbs that end in -ger or -gir, the g in the yo form changes to a j.
 
 **Examples:** 
-Distin<u>guir</u> ➪ Distingo
-Dirigir ➪ Dirijo
-Recoger ➪ Recojo
+- Distin<u>guir</u> ➪ Distingo
+- Dirigir ➪ Dirijo
+- Recoger ➪ Recojo
 
 
 # **Progressive Tense (Perífrasis Verbal)**
@@ -123,17 +123,22 @@ Stem changes:
 - ir verbs with an E in its stem becomes I
 
 Examples:
-R**e**ir (to laugh) ➪ R**i**endo\ 
-D**o**rmir (to sleep) ➪ D**u**rmiendo\
-P**o**der (to be able) ➪ P**u**diendo 	NOTE: This specific example is an extension of the stem change rule. 
+- R**e**ir (to laugh) ➪ R**i**endo
+- D**o**rmir (to sleep) ➪ D**u**rmiendo
+- P**o**der (to be able) ➪ P**u**diendo 	NOTE: This specific example is an extension of the stem change rule. 
 
 > Exceptions to the suffix: In cases where there would be 3 vowels next to one another, i is replaced with y.
 {: .prompt-danger }
 
 Examples:
-Leer (to read)  ➪ Le**y**endo\
-Traer (to bring) ➪ Tra**y**endo\
-Influir (to influence) ➪ Influ**y**endo\
+- Leer (to read)  ➪ Le**y**endo
+- Traer (to bring) ➪ Tra**y**endo
+- Influir (to influence) ➪ Influ**y**endo
+
+# **Los Mandatos Informales Afirmativos**
+
+**Affirmative informal commands are used among friends, family, etc and do not use the word “no”.** It is formed with the el/la/usted conjugation of a verb. 
+
 
 
 <!-- <div class="row">
