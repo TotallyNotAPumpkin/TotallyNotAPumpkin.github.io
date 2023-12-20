@@ -125,8 +125,15 @@ Stem changes:
 Examples:
 R**e**ir (to laugh) ➪ R**i**endo 
 D**o**rmir (to sleep) ➪ D**u**rmiendo
-P**o**der (to be able) ➪ P**u**diendo 	NOTE: This does not follow the above stem change rule.
+P**o**der (to be able) ➪ P**u**diendo 	NOTE: This specific example is an extension of the stem change rule. 
 
+> Exceptions to suffix: In cases where there would be 3 vowels next to one another, i is replaced with y.
+{: .prompt-danger }
+
+Examples:
+Leer (to read)  ➪ Le**y**endo
+Traer (to bring) ➪ Tra**y**endo
+Influir (to influence) ➪ Influ**y**endo
 
 
 <!-- <div class="row">
