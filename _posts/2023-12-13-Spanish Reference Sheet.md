@@ -53,6 +53,7 @@ Examples:
 | **Vosotros**                |   miráis  |   coméis  |   vivís   |
 | **Ellos / ellas / ustedes** |   miran   |   comen   |   viven   |
 
+Examples:
 <div class="row">
   <div class="column" align="center">
     <p> <u>I see</u> the birds.<br>
@@ -127,7 +128,7 @@ Examples:
 - D**o**rmir (to sleep) ➪ D**u**rmiendo
 - P**o**der (to be able) ➪ P**u**diendo 	NOTE: This specific example is an extension of the stem change rule. 
 
-> Exceptions to the suffix: In cases where there would be 3 vowels next to one another, i is replaced with y.
+> Exceptions to the suffix: In cases where there would be 3 vowels next to one another, `i` is replaced with `y`.
 {: .prompt-danger }
 
 Examples:
@@ -139,7 +140,41 @@ Examples:
 
 **Affirmative informal commands are used among friends, family, etc and do not use the word “no”.** It is formed with the el/la/usted conjugation of a verb. 
 
+| **LMIA**             | **-ar ending verbs** | **-er ending verbs** | **-ir ending verbs** |
+|----------------------|:--------------------:|:--------------------:|:--------------------:|
+| **TODAS LAS FORMAS** |          -a          |          -e          |          -e          |
 
+**Some of the verbs are irregular in their affirmative tu form:**
+
+| **Infinitive** | **Mandato Informales** |       **Ejemplo**       |
+|----------------|:----------------------:|:-----------------------:|
+| **Decir**      |           Di           |      ¡Di la verdad!     |
+| **Hacer**      |           Haz          |      ¡Haz la cama!      |
+| **Ir**         |           Ve           | ¡Ve a la escuela ahora! |
+| **Poner**      |           Pon          |      ¡Pon la mesa!      |
+| **Salir**      |           Sal          |     ¡Sal de mi casa!    |
+| **Ser**        |           Sé           |        ¡Sé bueno!       |
+| **Tener**      |           Ten          |      ¡Ten cuidado!      |
+| **Venir**      |           Ven          |  ¡Ven a la biblioteca!  |
+
+Examples:
+<div class="column" align="center">
+  <p><u>Talk</u> more slowly.<br>
+  ➪ <u><b>Habla</b></u>  más despacio.
+  </p>
+</div>
+<div class="column" align="center">
+  <p> <u>Eat</u> your vegetables.<br>
+  ➪ <u><b>Come</b></u> tus verduras.
+  </p>
+</div>
+<div class="column" align="center">
+  <p><u>Close</u> the door.<br>
+  ➪ <u><b>Cierra</b></u> la puerta.
+  </p>
+</div>
+
+## **Los Mandatos Formales, Mandatos Informales Negativos, y Mandatos Ustedes**
 
 <!-- <div class="row">
   <div class="column" align="center">
