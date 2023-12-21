@@ -82,6 +82,7 @@ Examples:
 - Dirigir ➪ Dirijo
 - Recoger ➪ Recojo
 
+<br>
 
 ## **Progressive Tense (Perífrasis Verbal)**
 **The progressive tense is used to describe an ongoing or previously ongoing action.** It always begins with the auxiliary verb ESTAR (which can be conjugated to any form), followed by the action verb (gerund). To conjugate, the infinitive ending (ar, er, or ir) is taken away and either -ando or -iendo is added. 
@@ -136,6 +137,8 @@ Examples:
 - Traer (to bring) ➪ Tra**y**endo
 - Influir (to influence) ➪ Influ**y**endo
 
+<br>
+
 ## **Los Mandatos Informales Afirmativos**
 
 **Affirmative informal commands are used among friends, family, etc and do not use the word “no”.** It is formed with the el/la/usted conjugation of a verb. 
@@ -173,6 +176,8 @@ Examples:
   ➪ <u><b>Cierra</b></u> la puerta.
   </p>
 </div>
+
+<br>
 
 ## **Los Mandatos Formales, Mandatos Informales Negativos, y Mandatos Ustedes**
 
