@@ -5,6 +5,15 @@ categories: [School, Spanish]
 tags: [spanish]    # TAG names should always be lowercase
 mermaid: true
 ---
+$link-color: #f52e62;
+$text-color: #3f517e;
+$hr-color:   rgba(0,0,0,0.35);
+$hr-text-color: #453986;
+
+$letter-spacing: .32em;
+
+$background-color: #fff;
+
 <style>
   table {
     width: 100%;
@@ -27,37 +36,119 @@ mermaid: true
     clear: both;
   }
 
-  .markdown-source-view hr,
-  .markdown-preview-view hr {
-    margin-block-start: 2em;
-    margin-block-end: 2em;
-    border: none;
-    height: 1px;;
-    background-image: linear-gradient(to right, var(--background-primary), DarkOliveGreen, green, yellowgreen, yellowgreen, green, DarkOliveGreen,var(--background-primary));
+  hr {
+    display: block;
+    margin: 50px 0 -15px;
+    width: 100%;
+    height: 1px;
+    border: 0;
+    background-color: $hr-color;
+    
+    + h2 {
+      display: inline-block;
+      position: relative;
+      left: 50%;
+      margin: 0;
+      padding: 5px 10px;
+      border: 1px solid $hr-text-color;
+      //box-shadow: inset 0 0 0 1px $hr-text-color;
+      transform: translateX(-50%);
+      color: $hr-text-color;
+      font-size: 12px;
+      font-weight: 500;
+      letter-spacing: $letter-spacing;
+      text-align: center;
+      text-transform: uppercase;
+      background-color: $background-color;
+      
+      // Cancel out offset created by letterspacing
+      &::first-letter {
+        margin-left: $letter-spacing;
+      }
+    }
   }
-  .markdown-source-view hr::after, 
-  .markdown-preview-view hr::after {
-    content: '🏶' ;/*'' */
-    color: Tomato; /*lightcoral*/
-    display: inline-block;
-    position: absolute;
-    left: 50%;
-    transform: translate(-50%, -50%); 
-    transform-origin: 50% 50%;
-    padding: none;
-    background-color: var(--background-primary);
+
+  /* Alternative transform: translate */
+  hr + h2 {
+    border-width: 1px 0;
+    
+    &::before,
+    &::after {
+      display: block;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 1px;
+      background: $hr-text-color;
+      content: '';
+    }
+
+    &::before {
+      left: 0;
+    }
+
+    &::after {
+      right: 0;
+    }
   }
-  .markdown-source-view hr::before, 
-  .markdown-preview-view hr::before {
-    content: '🙘🙤\00a0🙦🙚'; /* '🙦 🙤 🙐🙖 🙚 🙘' */
-    color: DarkSeaGreen; 
-    display: inline-block;
-    position: absolute;
-    left: 50%;
-    transform: translate(-50%, -55%);
-    transform-origin: 50% 50%;
-    padding: none;
-    background-color: var(--background-primary);
+  /**/
+
+  // Unimportant bits
+  * {
+    box-sizing: border-box;
+  }
+
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: $text-color;
+    font-family: Helvetica Neue, Helvetica, Arial sans-serif;
+    background-color: $background-color;
+  }
+
+  article {
+    margin: 20px 10px;
+    
+    @media (min-width: 30em) {
+      margin: 40px 0;
+      padding: 0 10px;
+      width: 30em;
+    }
+  }
+
+  a {
+    color: $link-color;
+    text-decoration: none;
+    
+    &:focus,
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  code {
+    font-size: 1.1em;
+  }
+
+  h1 {
+    margin: 0 0 1em;
+    color: #44388b;
+  }
+
+  p {
+    padding: 0 10px;
+    
+    // This is just to get rid of the needles p's CodePen drops in.
+    &:empty {
+      display: none;
+    }
   }
 
 </style>
