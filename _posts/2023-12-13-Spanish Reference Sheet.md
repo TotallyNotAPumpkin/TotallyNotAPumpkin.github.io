@@ -29,7 +29,30 @@ mermaid: true
     clear: both;
   }
 
-
+  .accessory {
+    height: 6px;
+    background-image: radial-gradient(
+      closest-side,
+      hsla(0, 0%, 50%, 1.0),
+      hsla(0, 0%, 50%, 0) 100%);
+    position: relative;
+  }
+  .accessory:after {
+    position: absolute;
+    top:  50%;
+    left: 50%;
+    display:block;
+    background-color: hsl(0, 0%, 75%);
+    height: 12px;
+    width:  12px;
+    transform: rotate(45deg);
+    margin-top:  -10px;
+    margin-left: -10px;
+    border-radius: 4px 0;
+    border: 4px solid hsla(0, 0%, 100%, 0.35);
+    background-clip: padding-box;
+    box-shadow: -10px 10px 0 hsla(0, 0%, 100%, 0.15), 10px -10px 0 hsla(0, 0%, 100%, 0.15);
+  }
 </style>
 
 ## **Presente de Indicativo (Present Tense)**
@@ -84,7 +107,7 @@ Examples:
 - Dirigir ➪ Dirijo
 - Recoger ➪ Recojo
 
-<hr>
+<hr class="accessory">
 
 ## **Progressive Tense (Perífrasis Verbal)**
 **The progressive tense is used to describe an ongoing or previously ongoing action.** It always begins with the auxiliary verb ESTAR (which can be conjugated to any form), followed by the action verb (gerund). To conjugate, the infinitive ending (ar, er, or ir) is taken away and either -ando or -iendo is added. 
