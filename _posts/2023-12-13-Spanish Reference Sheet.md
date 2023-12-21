@@ -27,12 +27,37 @@ mermaid: true
     clear: both;
   }
 
-  hr.double {
-    border-top: 3px double;
-    border-bottom: none;
-    height:5px;
-    color:black;
-    background-color:gray;
+  .markdown-source-view hr,
+  .markdown-preview-view hr {
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+    border: none;
+    height: 1px;;
+    background-image: linear-gradient(to right, var(--background-primary), DarkOliveGreen, green, yellowgreen, yellowgreen, green, DarkOliveGreen,var(--background-primary));
+  }
+  .markdown-source-view hr::after, 
+  .markdown-preview-view hr::after {
+    content: '🏶' ;/*'' */
+    color: Tomato; /*lightcoral*/
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    transform-origin: 50% 50%;
+    padding: none;
+    background-color: var(--background-primary);
+  }
+  .markdown-source-view hr::before, 
+  .markdown-preview-view hr::before {
+    content: '🙘🙤\00a0🙦🙚'; /* '🙦 🙤 🙐🙖 🙚 🙘' */
+    color: DarkSeaGreen; 
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -55%);
+    transform-origin: 50% 50%;
+    padding: none;
+    background-color: var(--background-primary);
   }
 
 </style>
@@ -89,7 +114,7 @@ Examples:
 - Dirigir ➪ Dirijo
 - Recoger ➪ Recojo
 
-<hr class="double">
+<hr>
 
 ## **Progressive Tense (Perífrasis Verbal)**
 **The progressive tense is used to describe an ongoing or previously ongoing action.** It always begins with the auxiliary verb ESTAR (which can be conjugated to any form), followed by the action verb (gerund). To conjugate, the infinitive ending (ar, er, or ir) is taken away and either -ando or -iendo is added. 
