@@ -29,29 +29,31 @@ mermaid: true
     clear: both;
   }
 
-  .accessory {
-    height: 12px;
-    background-image: radial-gradient(
-      closest-side,
-      hsla(0, 0%, 50%, 1.0),
-      hsla(0, 0%, 50%, 0) 100%);
+  .bookends-dots {
     position: relative;
+    border-bottom: 1px solid hsla(0, 0%, 50%, 0.75);
+    width: 50%;
   }
-  .accessory:after {
+  .bookends-dots:before,
+  .bookends-dots:after {
     position: absolute;
-    top:  50%;
-    left: 50%;
-    display:block;
-    background-color: hsl(0, 0%, 75%);
-    height: 18px;
-    width:  12px;
-    transform: rotate(45deg);
-    margin-top:  -10px;
-    margin-left: -10px;
-    border-radius: 4px 0;
-    border: 4px solid hsla(0, 0%, 100%, 0.35);
-    background-clip: padding-box;
-    box-shadow: -10px 10px 0 hsla(0, 0%, 100%, 0.15), 10px -10px 0 hsla(0, 0%, 100%, 0.15);
+    bottom: -5px;
+    width: 10px;
+    height: 10px;
+    display: block;
+    border-width: 0 1px 1px 0;
+    border-color: hsla(0, 0%, 50%, 0.75);
+    border-style: solid;
+    box-sizing: border-box;
+    border-radius: 100%;
+  }
+  .bookends-dots:before {
+    transform: translateZ(0) rotate(-45deg);
+    left: -10px;
+  }
+  .bookends-dots:after {
+    transform: translateZ(0) rotate(135deg);
+    right: -10px;
   }
 </style>
 
@@ -107,7 +109,7 @@ Examples:
 - Dirigir ➪ Dirijo
 - Recoger ➪ Recojo
 
-<hr class="accessory">
+<hr class="bookends-dots">
 
 ## **Progressive Tense (Perífrasis Verbal)**
 **The progressive tense is used to describe an ongoing or previously ongoing action.** It always begins with the auxiliary verb ESTAR (which can be conjugated to any form), followed by the action verb (gerund). To conjugate, the infinitive ending (ar, er, or ir) is taken away and either -ando or -iendo is added. 
