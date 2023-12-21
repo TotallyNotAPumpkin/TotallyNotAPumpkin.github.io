@@ -5,14 +5,7 @@ categories: [School, Spanish]
 tags: [spanish]    # TAG names should always be lowercase
 mermaid: true
 ---
-$link-color: #f52e62;
-$text-color: #3f517e;
-$hr-color:   rgba(0,0,0,0.35);
-$hr-text-color: #453986;
 
-$letter-spacing: .32em;
-
-$background-color: #fff;
 
 <style>
   table {
@@ -36,6 +29,15 @@ $background-color: #fff;
     clear: both;
   }
 
+  $link-color: #f52e62;
+  $text-color: #3f517e;
+  $hr-color:   rgba(0,0,0,0.35);
+  $hr-text-color: #453986;
+
+  $letter-spacing: .32em;
+
+  $background-color: #fff;
+  
   hr {
     display: block;
     margin: 50px 0 -15px;
