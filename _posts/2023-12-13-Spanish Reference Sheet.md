@@ -29,31 +29,50 @@ mermaid: true
     clear: both;
   }
 
-  .bookends-dots {
+  body {
+    text-align: center;
+    background: #fcfcfa;
+    color: #818078;
+    font-family: Futura, sans-serif;
+  }
+
+  .container {
+    max-width: 50%;  
+    margin: 40px auto;
+  }
+
+  .hr-text {
+    line-height: 1em;
     position: relative;
-    border-bottom: 1px solid hsla(0, 0%, 50%, 0.75);
-    width: 50%;
-  }
-  .bookends-dots:before,
-  .bookends-dots:after {
-    position: absolute;
-    bottom: -5px;
-    width: 10px;
-    height: 10px;
-    display: block;
-    border-width: 0 1px 1px 0;
-    border-color: hsla(0, 0%, 50%, 0.75);
-    border-style: solid;
-    box-sizing: border-box;
-    border-radius: 100%;
-  }
-  .bookends-dots:before {
-    transform: translateZ(0) rotate(-45deg);
-    left: -10px;
-  }
-  .bookends-dots:after {
-    transform: translateZ(0) rotate(135deg);
-    right: -10px;
+    outline: 0;
+    border: 0;
+    color: black;
+    text-align: center;
+    height: 1.5em;
+    opacity: .5;
+    &:before {
+      content: '';
+      // use the linear-gradient for the fading effect
+      // use a solid background color for a solid bar
+      background: linear-gradient(to right, transparent, #818078, transparent);
+      position: absolute;
+      left: 0;
+      top: 50%;
+      width: 100%;
+      height: 1px;
+    }
+    &:after {
+      content: attr(data-content);
+      position: relative;
+      display: inline-block;
+      color: black;
+
+      padding: 0 .5em;
+      line-height: 1.5em;
+      // this is really the only tricky part, you need to specify the background color of the container element...
+      color: #818078;
+      background-color: #fcfcfa;
+    }
   }
 </style>
 
@@ -109,7 +128,9 @@ Examples:
 - Dirigir ➪ Dirijo
 - Recoger ➪ Recojo
 
-<hr class="bookends-dots">
+<div class="container">
+  <hr class="hr-text" data-content="**Progressive Tense (Perífrasis Verbal)**">
+</div>
 
 ## **Progressive Tense (Perífrasis Verbal)**
 **The progressive tense is used to describe an ongoing or previously ongoing action.** It always begins with the auxiliary verb ESTAR (which can be conjugated to any form), followed by the action verb (gerund). To conjugate, the infinitive ending (ar, er, or ir) is taken away and either -ando or -iendo is added. 
