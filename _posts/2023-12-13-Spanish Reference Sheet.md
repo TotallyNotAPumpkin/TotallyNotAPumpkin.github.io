@@ -30,7 +30,7 @@ mermaid: true
   }
 
   .accessory {
-    height: 6px;
+    height: 12px;
     background-image: radial-gradient(
       closest-side,
       hsla(0, 0%, 50%, 1.0),
@@ -43,7 +43,7 @@ mermaid: true
     left: 50%;
     display:block;
     background-color: hsl(0, 0%, 75%);
-    height: 12px;
+    height: 18px;
     width:  12px;
     transform: rotate(45deg);
     margin-top:  -10px;
