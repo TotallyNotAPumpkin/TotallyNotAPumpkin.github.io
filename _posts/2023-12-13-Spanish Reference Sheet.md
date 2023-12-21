@@ -6,27 +6,34 @@ tags: [spanish]    # TAG names should always be lowercase
 mermaid: true
 ---
 <style>
-    table {
-        width: 100%;
-    }
+  table {
+    width: 100%;
+  }
 
+  .column {
+    float: left;
+    width: 33.33%;
+  }
+  @media screen and (max-width: 600px) {
     .column {
-        float: left;
-        width: 33.33%;
+    width: 100%;
     }
-    @media screen and (max-width: 600px) {
-        .column {
-        width: 100%;
-        }
-    }
+  }
 
-    /* Clear floats after the columns */
-    .row:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 
+  hr.double {
+    border-top: 3px double;
+    border-bottom: none;
+    height:5px;
+    color:black;
+    background-color:gray;
+  }
 
 </style>
 
@@ -82,7 +89,7 @@ Examples:
 - Dirigir ➪ Dirijo
 - Recoger ➪ Recojo
 
-<hr style="height:5px;border-width:0;color:gray;background-color:gray">
+<hr class="double">
 
 ## **Progressive Tense (Perífrasis Verbal)**
 **The progressive tense is used to describe an ongoing or previously ongoing action.** It always begins with the auxiliary verb ESTAR (which can be conjugated to any form), followed by the action verb (gerund). To conjugate, the infinitive ending (ar, er, or ir) is taken away and either -ando or -iendo is added. 
