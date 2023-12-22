@@ -210,7 +210,7 @@ Examples:
 
 ## **Preterito**
 
-<p><b>The preterite tense is used to describe actions (events) that took place in the past and is a completed finished action.<b> Much like the <u>present tense</u>, the conjugated verb ending depends on the infinitive ending (ar, er, or ir). </p>
+<p><b>The preterite tense is used to describe actions (events) that took place in the past and is a completed finished action.</b> Much like the <u>present tense</u>, the conjugated verb ending depends on the infinitive ending (ar, er, or ir). </p>
 
 
 | **Preterito**               | **-ar ending verbs** | **-er ending verbs*** | **-ir ending verbs*** |
@@ -255,7 +255,7 @@ Examples:
 
 However, be wary of irregular preterite verbs. Here’s a list of some common ones: 
 
-| **Verb** |  <u>estar</u> | poder | tener | hacer | querer | decir |
+| **Verb** |  estar | poder | tener | hacer | querer | decir |
 |:--------:|:------:|:-----:|:-----:|:-----:|:------:|:-----:|
 | **Stem** | estuv- |  pud- |  tuv- | hic-* |  quis- |  dij- |
 
