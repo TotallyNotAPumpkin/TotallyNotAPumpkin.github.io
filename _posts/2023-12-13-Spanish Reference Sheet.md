@@ -209,7 +209,9 @@ Examples:
 
 
 ## **Preterito**
+
 <p><b>The preterite tense is used to describe actions (events) that took place in the past and is a completed finished action.<b> Much like the <u>present tense</u>, the conjugated verb ending depends on the infinitive ending (ar, er, or ir). </p>
+
 
 | **Preterito**               | **-ar ending verbs** | **-er ending verbs*** | **-ir ending verbs*** |
 |-----------------------------|:--------------------:|:---------------------:|:---------------------:|
