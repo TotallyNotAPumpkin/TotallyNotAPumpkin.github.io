@@ -179,8 +179,37 @@ Examples:
 <br>
 
 ## **Los Mandatos Formales, Mandatos Informales Negativos, y Mandatos Ustedes**
+**Formal commands are used for people that we are unfamiliar with. These include people who are older, hold a higher social position, or that you don’t particularly like!** Formal commands are formed using the third person singular or plural of the present subjunctive.
 
-<!-- <div class="row">
+| **Presente de Subjuntivo** | **-ar ending verbs** | **-er ending verbs** | **-ir ending verbs** |
+|----------------------------|:--------------------:|:--------------------:|:--------------------:|
+| **Usted**                  |          -e          |          -a          |          -a          |
+| **Ustedes**                |          -en         |          -an         |          -an         |
+
+Formal commands have the same irregular verbs as their subjunctive counterparts.
+
+Examples:
+<div class="row">
+  <div class="column" align="center">
+    <p> <u>Wait</u> your turn in line.<br>
+    ➪ <u><b>Espere</b></u> su turno en la fila.
+    </p>
+  </div>
+  <div class="column" align="center">
+    <p> <u>Don't arrive</u> late to the meeting.<br>
+    ➪ <u><b>No llegues</b></u> tarde a la reunión.
+    </p>
+  </div>
+  <div class="column" align="center">
+    <p><u>You all do</u> the homework.<br>
+    ➪ Ustedes <u><b>hagan</b></u> la tarea.
+    </p>
+  </div>
+</div>
+
+
+<!-- Examples:
+<div class="row">
   <div class="column" align="center">
     <p> <u></u><br>
     ➪ <u><b></b></u>
