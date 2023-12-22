@@ -208,6 +208,56 @@ Examples:
 </div>
 
 
+## **Preterito**
+<p><b>The preterite tense is used to describe actions (events) that took place in the past and is a completed finished action.<b> Much like the <u>present tense</u>, the conjugated verb ending depends on the infinitive ending (ar, er, or ir). </p>
+
+| **Preterito**               | **-ar ending verbs** | **-er ending verbs*** | **-ir ending verbs*** |
+|-----------------------------|:--------------------:|:---------------------:|:---------------------:|
+| **Yo**                      |          -é          |           -í          |           -í          |
+| **Tú**                      |         -aste        |         -iste         |         -iste         |
+| **Él / ella / usted**       |          -ó          |          -ío          |          -ío          |
+| **Nosotros**                |         -amos        |         -imos         |         -imos         |
+| **Vosotros**                |        -asteis       |        -isteis        |        -isteis        |
+| **Ellos / ellas / ustedes** |         -aron        |         -ieron        |         -ieron        |
+
+> **Note** - in the preterite tense, `-er` and `-ir` verbs have the same endings
+{: .prompt-info }
+
+| **Presente de Indicativo**  | **Mirar** | **Comer** | **Vivir** |
+|-----------------------------|:---------:|:---------:|:---------:|
+| **Yo**                      |    miré   |    comí   |    viví   |
+| **Tú**                      |  miraste  |  comiste  |  viviste  |
+| **Él / ella / usted**       |    miró   |   comío   |   vivío   |
+| **Nosotros**                |  miramos  |  comimos  |  vivimos  |
+| **Vosotros**                | mirasteis | comisteis | vivisteis |
+| **Ellos / ellas / ustedes** |  miraron  |  comieron |  vivieron |
+
+Examples:
+<div class="row">
+  <div class="column" align="center">
+    <p> <u>I saw you</u> yesterday.<br>
+    ➪ <u>Yo te <b>miré</b></u> ayer.
+    </p>
+  </div>
+  <div class="column" align="center">
+    <p> <u>You left</u> the house.<br>
+    ➪ <u>Tú <b>saliste</b></u> la casa.
+    </p>
+  </div>
+  <div class="column" align="center">
+    <p><u>She drank</u> coffee this morning.<br>
+    ➪ <u>Ella <b>bebió</b></u> café está mañana.
+    </p>
+  </div>
+</div>
+
+However, be wary of irregular preterite verbs. Here’s a list of some common ones: 
+
+| **Verb** |  <u>estar</u> | poder | tener | hacer | querer | decir |
+|:--------:|:------:|:-----:|:-----:|:-----:|:------:|:-----:|
+| **Stem** | estuv- |  pud- |  tuv- | hic-* |  quis- |  dij- |
+
+
 <!-- Examples:
 <div class="row">
   <div class="column" align="center">
