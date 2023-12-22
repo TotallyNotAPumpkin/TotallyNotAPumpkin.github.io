@@ -91,6 +91,8 @@ Examples:
 - Dirigir ➪ Dirijo
 - Recoger ➪ Recojo
 
+<hr />
+
 
 ## **Progressive Tense (Perífrasis Verbal)**
 **The progressive tense is used to describe an ongoing or previously ongoing action.** It always begins with the auxiliary verb ESTAR (which can be conjugated to any form), followed by the action verb (gerund). To conjugate, the infinitive ending (ar, er, or ir) is taken away and either -ando or -iendo is added. 
