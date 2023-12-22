@@ -259,6 +259,14 @@ However, be wary of irregular preterite verbs. Here’s a list of some common on
 |:--------:|:------:|:-----:|:-----:|:-----:|:------:|:-----:|
 | **Stem** | estuv- |  pud- |  tuv- | hic-* |  quis- |  dij- |
 
+| **Verb** | poner | saber | traer | conducir | venir | prevenir |
+|:--------:|:-----:|:-----:|:-----:|:--------:|:-----:|:--------:|
+| **Stem** |  pus- |  sup- | traj- |  conduj- |  vin- |  previn- |
+
+> **Note** - `hacer` in the `él`/`ella`/`usted` form has the stem `hiz-`
+{: .prompt-info }
+
+These verbs also do **not** have any accents on their endings. 
 
 <!-- Examples:
 <div class="row">
