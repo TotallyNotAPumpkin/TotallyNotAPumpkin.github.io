@@ -7,37 +7,7 @@ mermaid: true
 ---
 
 
-<style>
-  table {
-    width: 100%;
-  }
 
-  .column {
-    float: left;
-    width: 33.33%;
-  }
-  @media screen and (max-width: 600px) {
-    .column {
-    width: 100%;
-    }
-  }
-
-  /* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-  hr {
-    border: none;
-    border-top: 3px double #333;
-    color: #333;
-    overflow: visible;
-    text-align: center;
-    height: 5px;
-  }
-
-</style>
 
 ## **Presente de Indicativo (Present Tense)**
 **The present indicative is used to express things that are currently happening.** To construct a verb in the present indicative, drop the infinitive ending (ar, er, or ir), and add its respective ending:
